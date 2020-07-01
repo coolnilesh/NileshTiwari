@@ -1180,7 +1180,7 @@ input:focus, textarea:focus, select:focus, button:focus {
 	text-align:center;
 }
 #circles-1{
-	background-image: linear-gradient(rgba(0,0,0,.0), rgba(0,0,0,.0)),url(../images/content/page-php.png);
+	background-image: linear-gradient(rgba(0,0,0,.0), rgba(0,0,0,.0)),url(../images/content/angular.png);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -1196,7 +1196,7 @@ input:focus, textarea:focus, select:focus, button:focus {
     background-size: cover;
 }
 #circles-3{
-	background-image:url(../images/content/progress_3.png);
+	background-image:url(../images/content/page-php.png);
 	border-radius: 100%;
     background-position: center;
     background-repeat: no-repeat;
